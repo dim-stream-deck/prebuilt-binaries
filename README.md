@@ -13,7 +13,7 @@ Pre-built binaries from `com.dim.streamdeck` repository
 [macro.exe](https://www.virustotal.com/gui/file/6b1ba12ecd02ec92f242eee1e5552abac2d2413a896c644693aed5adbab0e606?nocache=1)
 
 > [!WARNING]
-> Since these binaries are not signed, some antivirus software may flag them as malicious. This is a false positive. (Cause the run as administrator service to manage firewall rules).
+> Since these binaries are not signed, some antivirus software may flag them as malicious. This is a false positive cause they run as administrator service to add/delete firewall rules.
 
 ## Source Code
 
